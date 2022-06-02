@@ -1,4 +1,4 @@
-# YouVisa Mail Processor
+# Netflix Clone
 
 Netflix clone is a project that aims to copy an interface of netflix movies, using a TMDB API to get the data. This project was created in order to practice my skills
 ## Installation
