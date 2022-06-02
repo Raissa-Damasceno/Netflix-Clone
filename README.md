@@ -7,6 +7,10 @@ Netflix clone is a project that aims to copy an interface of netflix movies, usi
 npm install
 ```
 
+## Image
+
+  <img alt="NextLevelWeek" src="./src/img/homePage.png" />
+
 ## Parameters
 
 Required to create an .env file and assign value to the following parameters:
